@@ -1,14 +1,18 @@
 # hololive-superchat-analysis
 
 ## Abstract
+The key findings of this reports are
+### To not rely on superchats as a key revenue source
+- No significant growth in total superchat revenue
+- No consistent increase in superchat volume or unique donators
+- High variability in superchat donations per stream
+
+These insights suggest that Hololive may achieve greater revenue growth by exploring other monetization channels, such as merchandise sales and live events, rather than focusing heavily on superchats.
 
 ## Introduction
-This analysis examines superchat donation patterns for Hololive V-Tubers, leveraging data from Hololyzer. By analyzing donation trends, we aim to uncover insights into audience behavior, geographical patterns, and potential business strategies for enhancing engagement and optimizing revenue.
+V-Tubing, where streamers use anime avatars instead of showing their faces, has become a major streaming niche. A key aspect of this culture is the "superchat" — a donation system that allows viewers to support streamers directly. This analysis focuses on Hololive, a leading V-Tuber agency, and aims to identify key trends within their superchat donations. By analyzing donation trends, we aim to uncover insights into audience behavior, geographical patterns, and potential business strategies for enhancing engagement and optimizing revenue.
 
-
-V-Tubing, where streamers use anime avatars instead of showing their faces, has become a major streaming niche. A key aspect of this culture is the "superchat"—a donation system that allows viewers to support streamers directly. This analysis focuses on Hololive, a leading V-Tuber agency, and aims to identify key trends within their superchat donations.
-
-### Assumptions
+### Data Source
 Data was sourced from [Hololyzer](https://www.hololyzer.net/youtube/index.html). 
 
 While most data were successfully extracted, some data points posed challenges during extraction and were excluded to streamline the analysis. These omissions are unlikely to significantly impact the overall insights.
