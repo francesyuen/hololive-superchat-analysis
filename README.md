@@ -5,6 +5,7 @@ The key findings of this reports are
 ### To not rely on superchats as a key revenue source
 - No significant growth in total superchat revenue
 - No consistent increase in superchat volume or unique donators
+- High variability in superchat donations for each vtuber
 - High variability in superchat donations per stream
 
 These insights suggest that Hololive may achieve greater revenue growth by exploring other monetization channels, such as merchandise sales and live events, rather than focusing heavily on superchats.
@@ -19,6 +20,19 @@ While most data were successfully extracted, some data points posed challenges d
 
 
 ## Results
+### Plateau
+The past few months of data is suggesting a plateau in superchat growth. 
+
+The following graph shows the daily superchat per day. The number is stable, but is showing no signs of growth.
+(replace with tableau graph)
+![image](https://github.com/user-attachments/assets/d895ad04-1fdd-4ce3-9087-56d02d8e1b19)
+
+There is also no growth in unique donators per day nor volume. 
+(replace with tableau graph)
+![image](https://github.com/user-attachments/assets/0784d3ee-53c9-43c8-9f0b-efeb48ffd364)
+![image](https://github.com/user-attachments/assets/7f208119-c027-49ba-977f-61bb98d20ac7)
+
+
 
 ## Further Improvements
 ### Currency
